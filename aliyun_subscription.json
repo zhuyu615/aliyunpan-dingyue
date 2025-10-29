@@ -1,0 +1,7 @@
+{
+  "name": "阿里云盘自动签到",
+  "author": "你的名字",
+  "schedule": "0 9 * * *",
+  "command": "task aliyunpan_sign.py",
+  "timestamp": "2024-01-01T00:00:00Z"
+}
